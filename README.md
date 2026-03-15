@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/joaork/GetHardware/main/logo.png" alt="GetHardware Logo" width="300"/>
 
-  # ⚙️ GetHardware
+  #
   **Sistema de Monitorização de Computadores**
 
   [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
