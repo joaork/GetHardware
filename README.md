@@ -85,7 +85,7 @@ O **GetHardware** é um software comercial e não possui código aberto. Ele est
 
 Para agendar uma demonstração, solicitar orçamentos ou adquirir o sistema completo, entre em contato:
 
-**João V.** Desenvolvedor e Engenheiro de Computação  
+**João V.** Desenvolvedor
 
 📧 Email: [joaovictorscr1@gmail.com]  
 💼 LinkedIn: [https://www.linkedin.com/in/jl-profile/](https://linkedin.com)
