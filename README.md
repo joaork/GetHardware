@@ -64,7 +64,7 @@ O fluxo de dados do sistema funciona da seguinte forma:
 
 ## 🛠️ Tecnologias Utilizadas
 
-**Back-end & Agente (Desktop):**
+**Back-end & Programa EXE (Desktop):**
 * Python 
 * `psutil`, `cpuinfo`, `paramiko`
 * LibreHardwareMonitor (C#/.NET DLL Wrapper)
