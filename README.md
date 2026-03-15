@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/GetHardware/main/logo.png" alt="GetHardware Logo" width="300"/>
+  <img src="https://raw.githubusercontent.com/joaork/GetHardware/main/logo.png" alt="GetHardware Logo" width="300"/>
 
   # ⚙️ GetHardware
   **Sistema de Monitorização de Computadores**
