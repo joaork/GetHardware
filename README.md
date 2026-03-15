@@ -73,3 +73,14 @@ O fluxo de dados do sistema funciona da seguinte forma:
 * Servidor Linux (SFTP)
   
 ---
+
+## 💼 Aquisição e Licenciamento
+
+O **GetHardware** é um software comercial e não possui código aberto. Ele está disponível para implantação em empresas de T.I. que desejam gerenciar seus clientes, ou empresas que desejam monitorar sua própria rede local.
+
+Para agendar uma demonstração, solicitar orçamentos ou adquirir o sistema completo, entre em contato:
+
+**João V.** Desenvolvedor e Engenheiro de Computação  
+
+📧 Email: [joaovictorscr1@gmail.com]  
+💼 LinkedIn: [https://www.linkedin.com/in/jl-profile/](https://linkedin.com)
