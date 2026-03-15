@@ -17,7 +17,7 @@
 
 O **GetHardware** é uma solução completa com o objetivo de transformar o suporte técnico de TI de um modelo *reativo* (esperar que a falha ocorra) para um modelo **proativo**. 
 
-A arquitetura divide-se num **Agente Local** (instalado nas máquinas dos clientes) que recolhe dados profundos de hardware e um **Painel Web **, onde a equipe pode acompanhar o estado de saúde de todos os computadores em tempo real, prever falhas de componentes (como sobreaquecimento) e agir antecipadamente.
+A arquitetura divide-se num **Agente Local** (instalado nas máquinas dos clientes) que recolhe dados profundos de hardware e um **Painel Web**, onde a equipe pode acompanhar o estado de saúde de todos os computadores em tempo real, prever falhas de componentes (como sobreaquecimento) e agir antecipadamente.
 
 ---
 
