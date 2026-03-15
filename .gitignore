@@ -1,0 +1,11 @@
+*.py
+*.php
+*.html
+*.js
+*.css
+__pycache__/
+build/
+dist/
+*.spec
+*.log
+*.env
