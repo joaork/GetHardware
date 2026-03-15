@@ -31,7 +31,7 @@ A arquitetura divide-se num **Programa Executável** (instalado nas máquinas do
 ![4](https://raw.githubusercontent.com/joaork/GetHardware/main/4.png)
 ![5](https://raw.githubusercontent.com/joaork/GetHardware/main/5.png)
 ![6](https://raw.githubusercontent.com/joaork/GetHardware/main/6.png)
-![Video](https://raw.githubusercontent.com/joaork/GetHardware/main/video.mp4)
+![Video](https://raw.githubusercontent.com/joaork/GetHardware/main/video.gif)
 
 ---
 
